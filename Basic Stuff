@@ -1,0 +1,2 @@
+To create node.js environment:
+File -> view -> command palette -> type container in search box -> select add dev config file -> select node.js -->OK 
